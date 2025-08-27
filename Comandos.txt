@@ -1,0 +1,20 @@
+#Curso
+https://www.udemy.com/course/react-cero-experto
+
+#Url Profe
+https://github.com/DevTalles-corp/react-ts-bases/tree/main
+
+#Crear un proyecto con react
+npm create vite
+
+#Crear un proyecto con react
+npm create vite@latest proyecto-react -- --template react-ts
+
+#Instalar dependencias
+npm install
+
+#Levantar ambiente
+npm run dev
+
+#Levantar claude
+claude --dangerously-skip-permissions
